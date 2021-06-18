@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/richard-ariel-cruz-cespedes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard-ariel-cruz-cespedes" height="30" width="40" /></a>
 </p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/code.gif" width="500" height="320" border-radius="30%" />
 
 ### 🔨 Languages and Tools:
 
