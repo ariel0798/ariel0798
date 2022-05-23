@@ -39,14 +39,16 @@
 
 -->
 
- 
+ <!--
  <br/> <br/>
 ### 🧠 Interested  in Learning:
 <img  title="Dart" alt="Dart" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/dart.svg"/>
 <img  title="Flutter" alt="Flutter" align="left" alt="Flutter" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/flutter.svg"/>
-
+-->
  <br/> <br/>
 ### 💻 OS:
   
 <img  title="Windows 10" alt="Windows 10" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/windows.svg"/> 
+<!--
 <img  title="Linux" alt="Linux" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/linux.svg"/> 
+-->
