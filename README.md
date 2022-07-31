@@ -18,18 +18,19 @@
 
 <img  title="Git" alt="Git" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/git.png"/>
 
+<img  title="Sql Server" alt="Sql Server" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/sqlserver.png"/>
+
+<img  title="Redis" alt="Redis" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/redis.png"/>
+<img  title="Docker" alt="Docker" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/docker.png"/>
 
 <!--
 
 <img  title="RabbitMQ" alt="RabbitMQ" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/rabbitmq.svg"/>
-<img  title="Docker" alt="Docker" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/docker.png"/>
 <img  title="Nginx" alt="Nginx" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/nginx.svg"/> 
 
-<img  title="Redis" alt="Redis" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/redis.png"/>
 
 <img  title="MongoDb" alt="MongoDb" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/mongodb.svg"/>
 
-<img  title="Sql Server" alt="Sql Server" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/sqlserver.png"/>
 
 <img  title="MySql" alt="MySql" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/mysql.svg"/>
 
