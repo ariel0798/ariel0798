@@ -48,7 +48,7 @@
 -->
  <br/> <br/>
 ### 💻 OS:
-  
+  <br/><br/>
 <img  title="Windows 10" alt="Windows 10" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/windows.svg"/> 
 <!--
 <img  title="Linux" alt="Linux" align="left" height="42px" src="https://raw.githubusercontent.com/ariel0798/ariel0798/main/Images/linux.svg"/> 
